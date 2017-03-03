@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "app": "ParrotCallConfirm",
+            "version": 5,
+            "message_no": 2,
+            "message_jp": "バージョン2.0に発信確認時のバイブレーションのパターンが増えました。アプリを最新にしてぜひ設定画面からお試しください！",
+            "message_en": "In the version 2.0, vibration patterns on the confirmation screen has been added. Please update app and you can try it on the setting screen!"
+        },
+        {
+            "app": "ParrotUnInstaller",
+            "version": 10,
+            "message_no": 2,
+            "message_jp": "アプリのテーマカラーを３色追加しました。設定画面からお試しいただけます！",
+            "message_en": "You can change theme color from setting."
+        }
+    ]
+}
